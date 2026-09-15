@@ -1,3 +1,19 @@
+Customized E-Commerce & Delivery Platform
+
+This repository is based on the open-source Platform e-commerce project and was customized and extended for my own development and deployment requirements.
+
+My Contributions
+Added real-time delivery route tracking
+Implemented distance-based order dispatching for available delivery personnel
+Extended application functionality and backend APIs
+Packaged and tested the application for Android and iOS
+Deployed the application using Apache on a Linux server
+Configured domain-based HTTPS communication between mobile clients and backend APIs
+Technology Stack
+
+Java • Spring Boot • REST APIs • MySQL • Redis • JavaScript • Apache • Linux • HTTPS • Android/iOS
+
+
 <p align="center">
  <a target="_blank" href="https://gitee.com/fuyang_lipengjun/platform/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lipengjun92/platform-wxshop"/></a>
  <a href='https://gitee.com/fuyang_lipengjun/platform/stargazers'><img src='https://gitee.com/fuyang_lipengjun/platform/badge/star.svg?theme=gvp' alt='star'/></a>
